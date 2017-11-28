@@ -14,7 +14,7 @@
     "version": "1",
     "changelog": [],
     "link": {
-        "文档": "/examples/mip-extensions/mip-stats-cnzz.html"
+        "文档": "https://github.com/mipengine/mip-extensions/blob/master/src/mip-stats-cnzz/README.md"
     }
 },{
     "time": "2017-11-16",
