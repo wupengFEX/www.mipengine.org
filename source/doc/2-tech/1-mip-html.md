@@ -2,16 +2,6 @@ title: MIP HTML 规范
 layout: doc
 ---
 
-<style>
-    table {
-        width: 100%;
-    }
-    tr td:first-child,
-    tr td:nth-child(2) {
-        width: 20%;
-    }
-</style>
-
 ## 头部使用规范
 
 - 页面起始标签使用 `<!doctype html>`；
@@ -173,3 +163,13 @@ MIP HTML 禁止使用对页面性能以及安全有较大影响的标签，同�
 ```
 
 [info] 所有 MIP 规范都可以通过 [MIP 代码校验工具](https://www.mipengine.org/validator/validate)进行快速检查，帮忙开发者迅速定位到问题！
+
+<style>
+    table {
+        width: 100%;
+    }
+    tr td:first-child,
+    tr td:nth-child(2) {
+        width: 20%;
+    }
+</style>
